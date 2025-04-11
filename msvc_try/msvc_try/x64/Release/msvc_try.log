@@ -1,0 +1,22 @@
+﻿  main.cpp
+  my_string.cpp
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(23,13): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(24,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(32,13): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(33,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(111,56): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(114,20): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(115,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(247,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(247,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(308,34): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(311,20): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(312,24): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(335,34): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(336,46): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(339,25): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(340,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\my_string.cpp(341,24): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  test_logger.cpp
+  wrapper.cpp
+C:\Users\Платон\Documents\5_SEM\ooplabs\lab1_mystring\msvc_try\wrapper.cpp(1,10): error C1083: Не удается открыть файл включение: pybind/pybind11.h: No such file or directory,
